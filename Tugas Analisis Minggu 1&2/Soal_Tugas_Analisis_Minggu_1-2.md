@@ -1,4 +1,4 @@
-# Soal Latihan dan Tugas Analisis — Minggu 1-2
+# SOAL LATIHAN DAN TUGAS ANALISIS — Minggu 1&2
 
 **Penulis:** Pratu Amnul Qadafi 
 
@@ -158,7 +158,7 @@ Untuk setiap sistem: skenario, vektor, dan konsekuensi:
 * *Konsekuensi strategis:* Kelemahan koordinasi tempur, blind-spot pada situasi taktis, peningkatan risiko kesalahan operasi, dan potensi eksploitasi oleh lawan selama krisis.
 
 #### Diagram Mermaid — Analisis Dampak Maritim
-![gambar3.png](Gambar3/Gambar3.png)
+![gambar3.png](Gambar/Gambar3.png)
 
 ---
 
