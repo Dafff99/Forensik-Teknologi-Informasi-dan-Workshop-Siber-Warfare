@@ -106,7 +106,7 @@ Stuxnet bukan hanya malware; ia dirancang untuk merusak peralatan fisik (sentrif
 * **Insiden BETA — Kemungkinan Cyber Warfare (atau operasi yang disponsori negara).** Justifikasi: Malware kustom terarah tanpa tuntutan finansial, target infrastruktur kritis selama ketegangan diplomatik—mengindikasikan tujuan strategis bukan finansial.
 
 #### Diagram Mermaid — Analisis Komparatif
-![gambar1.png](images/gambar1.png)
+![gambar1.png](Gambar/Gambar1.png)
 
 ### Tugas 2: Studi Kasus Mendalam – Anatomi Serangan Stuxnet
 
