@@ -126,7 +126,7 @@ Stuxnet bukan hanya malware; ia dirancang untuk merusak peralatan fisik (sentrif
 * **Penipuan/Penyamaran:** Menyembunyikan perubahan melalui manipulasi data diagnostik dan log, serta pemicu kondisi tertentu sebelum aktivasi untuk menghindari deteksi awal.
 
 #### Diagram Sekuens Mermaid — Rantai Serangan Stuxnet
-![gambar2.png](images/gambar2.png)
+![gambar2.png](Gambar/Gambar2.png)
 
 
 ### Tugas 3: Analisis Kontekstual – Dampak Cyber Warfare pada Pertahanan Maritim Indonesia
