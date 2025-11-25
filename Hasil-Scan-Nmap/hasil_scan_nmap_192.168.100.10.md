@@ -5,10 +5,10 @@ IP Address : 192.168.100.10
 Hostname : target
 Command : nmap -n -Pn -p- -A target -o hasil_scan.txt
 
-![gambar1.png](Image/gambar1.png)
-![gambar2.png](Image/gambar2.png)
-![gambar3.png](Image/gambar3.png)
-![gambar4.png](Image/gambar4.png)
+![Pic1.png](Image/gambar1.png)
+![Pic2.png](Image/gambar2.png)
+![Pic3.png](Image/gambar3.png)
+![gPic4.png](Image/gambar4.png)
 ---
 
 # 🔍 Ringkasan Port Terbuka
