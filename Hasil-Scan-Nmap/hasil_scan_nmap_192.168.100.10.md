@@ -6,9 +6,13 @@ Hostname : target
 Command : nmap -n -Pn -p- -A target -o hasil_scan.txt
 
 ![Picture1.png](Gambar/pic1.png)
+
 ![Picture2.png](Gambar/Pic2.png)
+
 ![Picture3.png](Gambar/Pic3.png)
+
 ![Picture4.png](Gambar/Pic4.png)
+
 ---
 
 # 🔍 Ringkasan Port Terbuka
@@ -55,7 +59,7 @@ Ini adalah tanda khas **Metasploitable2**, sebuah sistem untuk latihan penetrati
 
 # 🧨 Kerentanan Paling Kritis
 
-### 🔥 1. Remote Code Execution
+###  1. Remote Code Execution
 - Samba 3.0.20 (CVE-2007–2447)
 - distccd
 - ProFTPD 1.3.1
@@ -63,20 +67,20 @@ Ini adalah tanda khas **Metasploitable2**, sebuah sistem untuk latihan penetrati
 
 **Dampak:** Eksekusi perintah sebagai root.
 
-### 🔥 2. Credential Leak / Tanpa Password
+###  2. Credential Leak / Tanpa Password
 - FTP Anonymous
 - Telnet
 - RSH (rlogin, rshell)
 
 **Dampak:** Penyerang dapat login tanpa otentikasi.
 
-### 🔥 3. Web Exploitation
+###  3. Web Exploitation
 - Apache 2.2.8
 - Tomcat 5.5 (default credentials)
 
 **Dampak:** Upload shell, RCE, takeover webserver.
 
-### 🔥 4. Service Enumeration
+###  4. Service Enumeration
 - RPC
 - NFS
 - MySQL / PostgreSQL
@@ -96,4 +100,4 @@ Ini adalah tanda khas **Metasploitable2**, sebuah sistem untuk latihan penetrati
 | 5 | Outdated Services | Sebagian besar service | Exploit tersedia publik |
 
 ---
-Di Buat Oleh : Sertu TTG Marthen Frikaldo Antaribaba
+Di Buat Oleh : Pratu Inf Amnul Qadafi
